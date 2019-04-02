@@ -64,7 +64,9 @@ Image of the solidwork for gun reload design:
 4. Jatin Varshney  
 
 ## Mentors
-1. Prashant
+1. Divyansh Gupta
+2. Prashant Kumar
+3. Shubhanshu Agarwal
 ![Aim Shooting Team](Images%20and%20Videos/Images/Team%20Photo.jpg)
 
 ## References
