@@ -4,13 +4,13 @@
   
 More Images and Videos in the Folder Img_Video itself.
 
-### Abstract:
+## Abstract
 We made automatic "Shooting Bot" as a open project of MARS. It identifies the target, and the gun moves with the target once it aims at target. We have used deep learning for image proccessing and steppers for for precise and acccurate motion of the gun. The basic purpose of the bot is to avoid any human intrution in no man land. It can be considered as a prototype for our defence system and its actual version with heavy machine guns and snipers can be deployed at the disturbing international borders which are cause of casualties of our soldiers. Hence,we can attack enemy while protecting our soldiers. 
 
-### Motivation:
+## Motivation
 Many iterations of this project can be seen in fictional stories/movies such as James Bond, etc. Considering it to be fairly simple, it was decided to showcase a model such as this in the Hobbies Club Exhibition. The initial brainstorming  showed us that this was a complicated project as independent motion of the gun and the accurate detection of the target in any background, couldn't be solved by simple mechanics and OpenCV respectively. This further motivated us to make this concept a reality.
 
-### Mechanical Aspect:
+## Mechanical Aspect
 - The Mechanical Design comprises of two portions - The gun movement mechanism and the gun reloading mechanism.
 - The Gun Movement Mechanism - This further is divided into two parts - Lower and Upper part. 
 - The two portions are independent to rotate.
@@ -23,12 +23,12 @@ Image of the solidwork for gun reload design:
 ![](Images%20and%20Videos/Images/img_4.jpeg)  
 
 
-### Electronic Aspect:
+## Electronic Aspect
 - It uses tensorflow object-detection API to do the same.So it is easily possible to aim for 100 different classes as given in the API. It makes the model robust to changes as per the type of object which it should aim irrespective of the surrounding.
 - The electronic design uses arduino mega for controlling. One motor was used for the rotation and the other for the reload mechanism. For rotation Stepper was used with PID control. For reloading a 900rpm dc motor was used. Two motor drivers were used each for one motor.
 - Apart from that as all the image processing was done on Laptop a USB-TTL converter was used and attached to arduino for proper communication.
 
-### Cost Structure:
+## Cost Structure
 |Sl. no.| Components                     | Cost(INR) |
 |-------|--------------------------------|-----------|
 |1.     | Arduino Mega                   | 700       |
@@ -44,29 +44,29 @@ Image of the solidwork for gun reload design:
 |       | Total                          | 15060     |
 
 
-### Applications:
+## Applications
 - It can be deployed at larger scales for border security that is to say in defense applications.  
 - As the model is robust to surroundings and can detect any out of 100 different classes it makes it better for use in Defense applications.
 
-### Limitations:
+## Limitations
 - The only limitation is that it has no optical locking mechanism that is to say that it doesnt work properly if it has more than one object of interest in its frame.
  
-### Future Improvements:
+## Future Improvements
 - Better tuning of the PID.  
 - Using Optical Flow for target locking.  
 - Better mechanical design to make it more appealing.  
 
-### Team Members:
+## Team Members
 1. Abhishek Agarwal  
 2. Aditya Kanfade   
 3. Aditya Raj   
 4. Jatin Varshney  
 
-### Mentors:
+## Mentors
 1. Prashant
 ![Aim Shooting Team](Images%20and%20Videos/Images/img_5.jpg)
 
-### References:
+## References
 1.  Tensorflow object Detection-API.  
 https://www.youtube.com/playlist?list=PLQVvvaa0QuDcNK5GeCQnxYnSSaar2tpku
 
