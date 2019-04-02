@@ -1,6 +1,6 @@
 ## Aim Shooting Bot
 
-![](Images and Videos/Images/img_1.jpeg)  
+![](Images and Videos\Images\img_1.jpeg)  
   
 More Images and Videos in the Folder Img_Video itself.
 
