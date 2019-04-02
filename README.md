@@ -1,6 +1,6 @@
 ## Aim Shooting Bot
 
-![](Images%20and%20Videos/Images/img_1.jpeg)  
+![](Images%20and%20Videos/Images/Final%Project%20Image.jpeg)  
   
 More Images and Videos in the Folder Img_Video itself.
 
@@ -20,7 +20,7 @@ Many iterations of this project can be seen in fictional stories/movies such as 
   
 Image of the solidwork for gun reload design:  
 
-![](Images%20and%20Videos/Images/img_4.jpeg)  
+![](Mechanical%20Design/Gun%20Assembly.jpeg)  
 
 
 ## Electronic Aspect
@@ -65,7 +65,7 @@ Image of the solidwork for gun reload design:
 
 ## Mentors
 1. Prashant
-![Aim Shooting Team](Images%20and%20Videos/Images/img_5.jpg)
+![Aim Shooting Team](Images%20and%20Videos/Images/Team%Photo.jpg)
 
 ## References
 1.  Tensorflow object Detection-API.  
