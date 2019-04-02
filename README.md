@@ -66,7 +66,7 @@ Image of the solidwork for gun reload design:
 
 ### Mentors:
 1. Prashant
-![Aim Shooting Team](Img_Video/images/img_5.jpeg)
+![Aim Shooting Team](Img_Video/images/img_5.jpg)
 
 ### References:
 1.  Tensorflow object Detection-API.  
