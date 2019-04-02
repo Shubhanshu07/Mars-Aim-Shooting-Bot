@@ -26,6 +26,7 @@ Image of the solidwork for gun reload design:
 ## Electronic Aspect
 - It uses tensorflow object-detection API to do the same.So it is easily possible to aim for 100 different classes as given in the API. It makes the model robust to changes as per the type of object which it should aim irrespective of the surrounding.
 - The electronic design uses arduino mega for controlling. One motor was used for the rotation and the other for the reload mechanism. For rotation Stepper was used with PID control. For reloading a 900rpm dc motor was used. Two motor drivers were used each for one motor.
+- The file obj2.py is used for Object Detection and to transfer angles to arduino.
 - Apart from that as all the image processing was done on Laptop a USB-TTL converter was used and attached to arduino for proper communication.
 
 ## Cost Structure
